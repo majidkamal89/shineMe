@@ -1,0 +1,483 @@
+@media (min-width:1801px) {
+	.bussiness .service-buttons {  right: 11%;}
+	.knowledge-services .service-buttons{right:30px;}
+.knowledge-services .service-buttons{    margin-left: 10%;}
+}
+@media (max-width:1800px) {
+.page-services .service-buttons .next_caro{width: 300px; text-align: right;  padding: 5px 20px 5px 0px;}
+.page-services .service-buttons{right:30px;}
+.page-services .service-buttons{    margin-left: 10%;}
+.page-services-1 .service-buttons{    left: 11%;}
+.knowledge-services .service-buttons .next_caro{width: 300px; text-align: right;  padding: 5px 20px 5px 0px;}
+.knowledge-services .service-buttons{right:30px;}
+.knowledge-services .service-buttons{    margin-left: 10%;}
+.knowledge-services-1 .service-buttons{    left: 11%;}
+.inner-services .homeour-service .service-list{margin-left: 5%;}
+}
+@media (max-width:1600px) {
+.homeour-service:before {
+    width: 991px;
+    -webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-30deg);
+    transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-30deg);
+    transform-origin: 0% 51%;
+	}
+	.searvices-home .next_caro {right: 90px;}
+	.searvices-home .previous_caro { right: 90px;}
+	.homegeneral-manager:before{ background-size: 16% 95%;}
+	/*.title-letest-news span { margin-left: 23.5%;}
+	.title-letest::before{ left: 18.5%;}
+	.title-letest-news { margin-top: -9%;}*/
+	.about-us-banner .homeservice-baner:before,.general-services .homeservice-baner:before {/* background-size: 30% 95%;*/
+	 background-size: auto;
+	 right:-80px;}
+	.about-mission .container { width: 58%;}
+	.about-mission .manager-beforeimg:before {height:904px;}
+	.genral-message .manager-beforeimg:before{background-size: 26% 100%;}
+	.about-us-banner .homeour-service::before{
+		 height: 100%;
+	    -webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-31deg);
+    	transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-31deg);
+    }
+    .about-us-banner .homeour-service .service-list { width: 85%;  margin-left: 7%;}
+    .general-services .homeour-service::before{-webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-31deg);transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-31deg);}
+    .general-services .homeour-service .service-list { width: 83%; margin-left: 5%;}
+	.our-team .homeour-service::before{-webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-30deg);  transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-30deg);}
+	.page-services .homeour-service:before { width: 991px; height: 100%; transform-origin: 0% 80%;}
+	.page-services .homeservice-baner img{height: 100%;}
+	.page-services .service-buttons { right: 105px;}
+	.page-services-1 .homeour-service .service-list { margin-left: 9%;}
+	.page-services-1 .homeour-service:before{ width: 991px; -webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(27deg);  transform: scaleX(1) scaleY(1) scaleZ(1) skewX(27deg);
+	}
+	.page-services-1 .service-buttons { left: 6%;}
+	.news-event-banner .homeservice-baner:before { background-size: 38% 95%;}
+	.news-event-banner .homeour-service .service-list { width: 74%; margin-left: 14%;}
+	.news-event-banner .homeour-service::before{ -webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-40deg); transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-40deg);}
+	#contact-banner .bg-contactright:before{-webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-35deg); transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-35deg);}
+	#contact-banner .contact-bag:before{ -webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-40deg); transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-35deg);}
+	.knowlegde-categories .homeour-service::before {
+		-webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-35deg);
+    	transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-35deg);
+    }
+    .knowlegde-categories .homeservice-baner::before{background-size: 42% 100%;}
+	.knowlegde-categories-bussiness .homeservice-baner::before {background-size: 42% 100%;}
+	.inner-services .homeour-service::before {   
+		 -webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-41deg);
+	    transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-41deg);
+	    transform-origin: 0% 71%;
+	}
+	.our-team .homeour-service .service-list {width: 84%;}
+	.our-team .homeservice-baner::before{ background-size: auto;
+	right:-50px;}
+	.our-team-bg {background-size: 42% 75%;}
+	.knowledge-services .homeour-service:before { width: 991px; height: 542px; transform-origin: 0% 80%;}
+	.knowledge-services .service-buttons { right: 105px;}
+	.knowledge-services-1 .homeour-service .service-list { margin-left: 9%;}
+	.knowledge-services-1 .homeour-service:before{ width: 991px; -webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(27deg);  transform: scaleX(1) scaleY(1) scaleZ(1) skewX(27deg);
+	}
+	.knowledge-services-1 .service-buttons { left: 6%;}
+	.page-services .homeour-service .service-list { width: 84%;}
+}
+@media (max-width:1500px) {
+	.page-services .service-buttons { right: 50px;}
+	.knowledge-services .service-buttons { right:50px;}
+	}
+@media (max-width:1400px) {
+	
+	.container{width:1100px;}
+	.searvices-home .next_caro { bottom: 90px; width: 135px;height: 35px;padding: 0px;right: 66px;}
+	.homeour-service  { width: 79%;}
+	.homeour-service:before {
+	    width: 870px;
+	    -webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-25deg);
+	    transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-25deg);
+	    transform-origin: 0% 55%;
+	}
+	.about-us-banner .homeour-service .service-list { width: 74%;  margin-left: 13%;}
+	.join-nowbtn:before { border-width: 0px 405px 279px 0px; transform: skewX(-43.6deg);}
+	#general-joinnow .join-nowbtn::before{ border-width: 0px 405px 279px 0px; transform: skewX(-43.6deg);}
+	.searvices-home .previous_caro{	bottom: 37px;width: 140px;height: 35px;padding: 0px;}
+	.searvices-home .previous_caro i{padding-right: 20px;}
+	.general-services .homeour-service .service-list { width: 73%; margin-left: 12%;}
+	.genral-message .manager-beforeimg:before { background-size: 16% 76%;}
+	.our-team .homeour-service::before{  -webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-30deg); transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-30deg);}
+	.page-services-1 .homeour-service:before{ width: 991px; -webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(27deg);  transform: scaleX(1) scaleY(1) scaleZ(1) skewX(27deg);}
+	.page-services-1 .homeour-service .service-list { margin-left: 9%;}
+	.page-services-1 .service-buttons { left: 6%;}
+	.page-services .homeour-service {width:79%;}
+	.news-events-grid .homeour-service:before{width: 55%;}
+	.contact-icons ul li:first-child { padding: 5px 33px 5px 0px;}
+	.contact-icons ul li:last-child { padding: 5px 0px 5px 33px;}
+	.contact-icons ul li { padding: 5px 32px;}
+	#contact-banner .contact-bag:before { -webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-31deg); transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-31deg);}
+	#contact-banner .bg-contactright:before { -webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-31deg); transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-31deg);}
+	.knowlegde-categories .homeour-service::before{-webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-31deg); transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-31deg);}
+	.knowledge-cate2 .service-buttons {  right: 41px;bottom:90px;}
+	.bussiness .homeour-service .service-list { margin-left: 25% !important;}
+	.medicine .homeour-service .service-list {margin-left: 14%;}
+	.knowledge-cate-bus2 .service-buttons {  right: 41px;bottom:90px;}
+	.search-events-grid .homeour-service:before {width:55%;}
+	.page-services .service-buttons {right: 15px;}
+	.inner-services .homeour-service .service-list {  margin-left: 9%;}
+	.inner-services .homeour-service::before {
+    -webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-35deg);
+    transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-35deg); transform-origin: 0% 80%; width: 991px;}
+    .news-event-banner .homeour-service .service-list {  width: 67%;}
+    .news-event-banner .homeour-service::before { -webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-31deg);transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-31deg);}
+    .news-event-inner .homeour-service .service-list { width: 72%;}
+    .news-event-inner .homeour-service::before{ -webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-35deg);transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-35deg);}
+    .knowledge-services-1 .homeour-service:before{ width: 991px; -webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(27deg);  transform: scaleX(1) scaleY(1) scaleZ(1) skewX(27deg);}
+	.knowledge-services-1 .homeour-service .service-list { margin-left: 14%;}
+	.knowledge-services-1 .service-buttons { left: 6%;}
+	.knowledge-services .homeour-service {width:79%;}
+	.knowledge-services .service-buttons {right: 13px;  bottom: 0px;}
+	.homeservice-wrapes .service-buttons {   bottom: 0;}
+	.homeservice-wrapes .next_caro {  bottom: 46px;}
+	.homeservice-wrapes  .homeour-service::before { height: 600px;}
+
+	#home-banner .v-center h2,#home-banner .v-center h1 { font-size: 100px;    margin-top: 0px;}
+}
+
+@media (max-width:1380px) {
+	.our-team .homeservice-baner::before, .about-us-banner .homeservice-baner:before,.general-services .homeservice-baner:before { background-size: auto;
+	right:-100px;}
+	/*.title-letest-news span {  margin-left: 25.3%;}
+	.title-letest::before {  left: 19.7%;}*/
+	.page-services .homeour-service:before {width: 870px;-webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-24deg);transform:scaleX(1) scaleY(1) scaleZ(1) skewX(-24deg); transform-origin: 0% 90%;
+		}
+	.page-services .homeour-service .service-list { margin-left: 3%;}
+	.page-services-1 .homeour-service:before { width: 870px; -webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(24deg);transform: scaleX(1) scaleY(1) scaleZ(1) skewX(24deg);}
+	.life-skills .service-list{ margin-left: 26% !important;}
+	.page-services .service-buttons { right: 53px;}
+	.page-services-1 .service-buttons { left: 5%;}
+	.knowledge-cate-bus2 .service-buttons { right: 10px;}
+	.know-inn-bussiness .homeour-service .service-list { margin-left: 26%;}
+	.inner-services .homeour-service::before {-webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-31deg); transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-31deg);}
+    .page-services .service-buttons { right: 13px;}
+
+    .knowledge-services .homeour-service:before {width: 870px;-webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-24deg);transform:scaleX(1) scaleY(1) scaleZ(1) skewX(-24deg); transform-origin: 0% 90%;
+		}
+	.knowledge-services .homeour-service .service-list { margin-left: 26%;}
+	.knowledge-services-1 .homeour-service:before { width: 870px; -webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(24deg);transform: scaleX(1) scaleY(1) scaleZ(1) skewX(24deg);}
+	.knowledge-services .service-buttons { right: 53px;}
+	.knowledge-services-1 .service-buttons { left: 5%;}
+	.knowledge-services .service-buttons { right: 13px;}
+}
+@media (max-width:1199px) {
+	.container{width:970px;}
+	.sh_menubar li a { padding: 10px 10px 10px 30px !important;}
+	.sh_menubar li:last-child a {padding: 10px 0px 10px 30px !important;}
+	.service-buttons {bottom: 10px;  z-index: 2; right: 10px;}
+	.searvices-home .next_caro{	bottom: 45px;width: 140px;height: 35px;padding: 0px;right: 90px;}
+	.searvices-home .previous_caro{bottom: 45px;width: 140px;height: 35px;padding: 0px;}
+	.homeour-service .slick-list {  padding-top: 50px;}
+	/*.service-buttons { z-index: 1;}*/
+	.home-serviceh2 {margin-top: 25px;}
+	.general-services .homeour-service::before { height: 100%;}
+	.join-nowbtn::before {border-width: 0px 271px 278px 0px;transform: skewX(-40.1deg);right: 12%;}
+	#general-joinnow .join-nowbtn { height: 304px;}
+	#general-joinnow .join-nowbtn::before {  border-width: 0px 297px 304px 0px;transform: skewX(-36.7deg); right: 12%;}
+	.join-text ul li {width: 28%;}
+	.join-nowbtn a {padding-left: 87px;font-size: 30px;}
+	#general-joinnow .join-nowbtn a{padding-left: 87px;font-size: 30px;}
+	.genral-message .manager-beforeimg:before { background-size: 16% 83%;}
+	.our-team .homeour-service::before { height: 100% !important;}
+	.contact-icons ul li { padding: 5px 10px;}
+	.contact-icons ul li:first-child { padding: 5px 12px 5px 0px;}
+	.contact-icons ul li:last-child { padding: 5px 0px 5px 11px;}
+	#contact-banner .contact-bag:before { -webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-27deg); transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-27deg);}
+	#contact-banner .bg-contactright:before { -webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-27deg); transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-27deg);}
+	.homeour-service { width: 77%;}
+	.homeour-service::before {  transform-origin: 0% 18%;}
+	.homeour-service .slick-list {padding-left:0px;}
+	#contact-us .f-contact ul li a{padding:0px 2px;}
+	.homegeneral-manager::before {background-image: none;}
+	.homegeneral-manager { margin-bottom: 0px;}
+	.about-us-banner .homeservice-baner:before, .general-services .homeservice-baner:before,.about-mission .manager-beforeimg::before {display: block;}
+	.about-us-banner .homeour-service::before {-webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-26deg); transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-26deg);}
+	.about-us-banner .homeour-service .service-list { width: 64%; margin-left: 19%;}
+	.about-us-banner {padding-bottom: 25px;}
+	.about-mission { padding-bottom: 0;}
+	.about-mission .container-fluid {margin: 0px auto;}
+	.about-mission .container { width: 970px;}
+	.about-mission .manager-beforeimg:before {display: none;}
+	.general-services .homeour-service::before {-webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(0deg); transform: scaleX(1) scaleY(1) scaleZ(1) skewX(0deg);}
+	.general-services .homeour-service .service-list { width: 100%; margin-left: 0;}
+	.general-services { padding-bottom: 0; margin-bottom: 20px;}
+	.general-services .homeservice-baner {display: none;}
+	.genral-message { padding-top: 0px;}
+	.genral-message .manager-beforeimg{display: none;}
+	.genral-message .container-fluid{ margin: 10px auto 0px;}
+	.our-team-bg {background-size: 62% 89%;}
+	.our-team .homeour-service .service-list { width: 80%;}
+	.our-team {padding-bottom: 50px; margin-bottom: 0px;}
+	.bussiness .service-buttons .next_caro {width:165px;    bottom: 020px;}
+	.medicine .homeour-service .service-list { margin-left: 3%;padding-top: 25px;}
+	.medicine .service-buttons .next_caro {width:165px;}
+	.medicine .homeour-service:before{transform-origin: 0% 100%;}
+	.medicine.knowledge-cate2 .service-buttons { right: 41px; bottom: 8px;}
+	.page-services .service-buttons .next_caro {width:165px;}
+	.news-event-banner .homeour-service .service-list { width: 65%; margin-left: 13%;}
+	.news-event-banner .homeour-service::before { -webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-22deg); transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-22deg);}
+	.news-events-grid .homeour-service::before { width: 49%;}
+	.news-events-grid .homeour-service .service-list {  margin-left: 29%;}
+	.news-events-grid .service-buttons { bottom: 5px;}
+	.news-events-grid .next_caro {padding: 6px 6px 6px 6px;text-align: center;width: 150px;}
+	.news-event-banner { padding-bottom: 0px;}
+	.search-results .homeservice-baner::before {display: none;}
+	.search-event-banner .homeservice-baner::before {display: none;}
+	.search-event-banner .homeour-service::before {height:600px;}
+	.search-events-grid .homeour-service::before { width: 49%;}
+	.search-events-grid .homeour-service .service-list {  margin-left: 29%;}
+	.search-events-grid .service-buttons { bottom: 5px;}
+	.search-events-grid .next_caro {padding: 6px 15px 6px 6px;text-align: center;}
+	.search-event-banner { padding-bottom: 0px;}
+	.search-results { padding-bottom: 0px;}
+	.page-services .homeour-service { width: 77%;}
+	.page-services .home-serviceh2 {margin-top:35px;}
+	.page-services .service-buttons {/*bottom: 60px;*/ bottom:30px;}
+	.page-services-1 .homeour-service::before { width: 991px; transform-origin: 0% 80%;}
+	.page-services-1 .homeour-service .service-list { margin-left: 0%;width: 94%;  background-size: 74%; background-position: -14% 0%;}
+	.page-services-1 .homeour-service .service-list .service-in { padding-left: 13%;}
+	.page-services .homeour-service .service-list { background-size: 74%; background-position: -10% 0%;  width: 94%;}
+	.inner-services .homeservice-baner{display: none;}
+	.inner-services .homeour-service { width: 100%;}
+	.inner-services .homeour-service .service-list {margin-left: 0;width: 100%;}
+	.knowlegde-categories .homeour-service .service-list { width: 90%;}
+	.inner-services .homeour-service::before {
+    -webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(0deg);
+    transform: scaleX(1) scaleY(1) scaleZ(1) skewX(0deg);
+    background-color: transparent;}
+    .news-event-inner .homeour-service .service-list { width: 65%;}
+    .news-event-inner .homeour-service::before { -webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-28deg); transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-28deg);}
+    .knowledge-services .homeour-service { width: 77%;}
+	.knowledge-services .home-serviceh2 {margin-top:35px;}
+	.knowledge-services .service-buttons {/*bottom: 60px;*/ bottom:0px;}
+	.knowledge-services-1 .homeour-service::before { width: 991px; transform-origin: 0% 80%;}
+	.knowledge-services-1 .homeour-service .service-list { margin-left: 0%;width: 94%;  background-size: 74%; background-position: -14% 0%;}
+	.knowledge-services-1 .homeour-service .service-list .service-in { padding-left: 0%;}
+	.knowledge-services .homeour-service .service-list { background-size: 74%; background-position: -10% 0%;  width: 94%;}
+	.knowledge-services .service-buttons .next_caro {  width: 165px;}
+}
+@media (min-width:991px) {
+    .v-center { height: 50%; overflow: visible; margin: auto;position: absolute;top: 0; left: 0; bottom: 0; right: 0;}
+}
+@media (max-width:991px) {
+	.container {  width: 750px;}
+	.about-mission .container { width: 750px;}
+	.shines-header .navbar-header{width:100%;}
+	.shines-header .navbar-toggle {background-color:#951A1D;margin-top: 45px;}
+	.fixed-nav .navbar-toggle {background-color:#951A1D;margin-top: 30px;}
+	.shines-header .navbar-collapse .navbar-nav li:before{display: none;}
+	.sh_menubar { float: left;  width: 100%;}
+	.social-bar { margin-top: 0px; float: right;}
+	
+	#home-banner .v-center {
+    position: absolute;
+    margin-top: 80px;
+    float: left;
+    width: 100%;
+    top: 40px;
+}
+	.sh_menubar li{float: right;width: 100%;}
+	.sh_menubar li a{float: right;}
+	.fixed-nav .social-bar { display: block;}
+	.shines-header.navbar-fixed-top .navbar-collapse { max-height: 345px;}
+	.shines-header .navbar-nav { margin: 7.5px 0px;}
+	.sh_menubar li a { padding: 10px 0px 10px 30px !important;}
+	.homeour-service::before { transform-origin: 100%; transform: inherit;  width: 100%;}
+	.homeour-service { width: 100%;}
+	.homeour-service .slick-list { z-index: 2;  width: 96%;  margin-left: 2%;}
+	.homeservice-baner{display: none;}
+	.homeour-service .slick-list .slick-slide { padding-left: 20px;padding-right: 20px;}
+	.join-text {width: 100%;}
+	.join-nowbtn {height: 65px;float: left;width: 100%;padding: 13px 0px;text-align: center;}
+	.join-nowbtn a { padding: 0px;}
+	 #general-joinnow .join-nowbtn a{ padding: 0px;}
+	.join-nowbtn a br{display: none;}
+	.join-nowbtn::before, #general-joinnow .join-nowbtn::before {display: none;}
+	.about-us-banner .homeour-service::before {-webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(0deg); transform: scaleX(1) scaleY(1) scaleZ(1) skewX(0deg);}
+	.about-us-banner .homeour-service .service-list { width: 100%; margin-left: 0%;}
+	#contact-us .f-links{width:100%;margin-top: 25px;}
+	.f-copyright p {  width: 50%; float: left;}
+	#general-joinnow .join-nowbtn {background-color: #f2b31d;  height: 65px; float: left;  width: 100%;}
+	.our-team-bg { background-size: 100% 100%;}
+	.our-team { padding-bottom: 0px;  margin-bottom: 0px; margin-top: 30px;}
+	.page-services .homeour-service { width: 100%;  background-color: #e3e3e3;}
+	.page-services .homeour-service::before { width: 870px; transform-origin: 0% 0%;  transform: unset; background-color: transparent;}
+	.bussiness .homeour-service .service-list {margin-left: 0% !important; padding-top: 50px;  width: 100%;}
+	.knowlegde-categories .homeour-service::before {-webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(0deg);transform: scaleX(1) scaleY(1) scaleZ(1) skewX(0deg);}
+	.knowlegde-categories .homeour-service .service-list { width: 100%; margin-left: 0;}
+	.knowlegde-categories {padding-bottom: 0px;}
+	.knowledge-cate2 .container{ background-color: #e3e3e3;}
+	.knowledge-cate2 .service-buttons { bottom: 0px; z-index: 2; right: 10px;}
+	.bussiness .service-buttons .next_caro {  width: 165px; bottom: 10px; height: 35px; padding: 0px; right: 90px;text-align: center;}
+	.medicine .homeour-service::before { width: 870px; transform-origin: 0% 0%;  transform: unset;   background-color: transparent;}
+	.medicine{padding: 30px 0px;margin: 30px 0px;}
+	.medicine .service-buttons {bottom: 40px !important;z-index: 2;right: 10px !important;}
+	.medicine .service-buttons .next_caro{width: 165px;bottom: 45px;height: 35px;padding: 0px;left:40px;text-align: center;}
+	.medicine .homeour-service .service-list {padding-bottom: 100px;}
+	.medicine .homeour-service {background-color: transparent !important;}
+	.medicine .k-categories li::before {left:95px;}
+	.medicine.knowledge-cate2 .service-buttons {left: 0px;z-index: 999;text-align: right;right: 140px !important;}
+	.knowlegde-categories-bussiness { padding-bottom: 0px;}
+	.knowlegde-categories-bussiness .homeour-service::before{-webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(0deg);transform: scaleX(1) scaleY(1) scaleZ(1) skewX(0deg);}
+	.knowledge-cate2 .k-categories li::before {left:95px;}
+	.knowledge-cate-bus2 .k-categories li::before {left:95px;}
+	.know-inn-bussiness .homeour-service .service-list {margin-left: 0px;}
+	.know-inn-bussiness .service-buttons {  right: 90px; bottom: 0px;}
+	.news-event-banner .homeour-service::before {height: 100%; -webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(0deg); transform: scaleX(1) scaleY(1) scaleZ(1) skewX(0deg);}
+	.news-event-banner .homeour-service .service-list { width: 100%; margin-left: 0;}
+	.news-events-grid {height: 450px;}
+	.news-events-grid .homeservice-baner{display: block;}
+	.news-events-grid .homeservice-baner img { position: absolute; height: 450px; width: 300px;}
+	.news-events-grid .homeour-service::before{height: 450px;-webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-32deg);transform: scaleX(1) scaleY(1) scaleZ(1) skewX(32deg);
+transform-origin: 0% 69%;width: 44%;}
+	.contact-icons ul li {  padding: 0;  width: 50%;  display: inline-block;  float: left; margin-bottom: 20px;}
+	.contact-icons ul li:first-child { padding: 0;}
+	.contact-icons ul li:last-child { padding: 0;}
+	.contact-formsec form div { padding-left: 0px; padding-right: 0px;}
+	.contact-formsec form .contact-msg { padding-right: 0px; padding-left: 0px;}
+	.contact-formsec form button {margin-top:20px;}
+	.search-event-banner .homeour-service::before {height: 100%;}
+	.search-events-grid {height: 450px;}
+	.search-events-grid .homeservice-baner{display: block;}
+	.search-events-grid .homeservice-baner img { position: absolute; height: 450px; width: 300px;}
+	.search-events-grid .homeour-service::before{height: 450px;-webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(-32deg);transform: scaleX(1) scaleY(1) scaleZ(1) skewX(32deg);
+transform-origin: 0% 69%;width: 44%;}
+	.page-services-1 .service-buttons { left: 0px;  bottom: 105px;  z-index: 999; text-align: right;right: 80px;}
+	.page-services-1 .service-buttons .next_caro {width: 165px;}
+	.page-services-1 .homeour-service{width: 100%;background-color: #e3e3e3;padding-bottom: 0px;}
+	.page-services-1 .homeour-service:before{width: 870px;transform-origin: 0% 0%;transform: unset;background-color: transparent;}
+	.page-services .homeour-service .service-list{margin-left: 0%;}
+	.life-skills .service-list { margin-left: 0% !important;}
+	.page-services-1 .homeour-service .service-list { margin-left: 0%; padding-right: 0%;background-position: 0% 0%;}
+	.page-services-1 .homeour-service .service-list .service-in {display: block;position: relative;z-index: 2;margin: 0px;padding-left: 100px;}
+	.training .homeour-service { margin: 0px auto 100px !important;}
+	.inner-services .homeour-service::before {height: 100%;}
+	.our-team .homeour-service .service-list { width: 100%;}
+	.page-services .service-buttons { right: 80px;}
+	.news-event-inner .homeour-service .service-list { width: 100%;}
+    .news-event-inner .homeour-service::before { -webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(0deg); transform: scaleX(1) scaleY(1) scaleZ(1) skewX(0deg);}
+    .news-event-inner { padding-bottom: 0;}
+    .searvices-home{background-color: #fff;}
+
+    .knowledge-services-1 .service-buttons { left: 0px;  bottom: 105px;  z-index: 999; text-align: right;right: 80px;}
+	.knowledge-services-1 .service-buttons .next_caro {width: 165px;}
+	.knowledge-services-1 .homeour-service{width: 100%;background-color: #e3e3e3;padding-bottom: 0px;}
+	.knowledge-services-1 .homeour-service:before{width: 870px;transform-origin: 0% 0%;transform: unset;background-color: transparent;}
+	.knowledge-services .homeour-service .service-list{margin-left: 0%;}
+	.knowledge-services .homeour-service:before {
+    width: 750px;
+    -webkit-transform: scaleX(1) scaleY(1) scaleZ(1) skewX(0deg);
+    transform: scaleX(1) scaleY(1) scaleZ(1) skewX(0deg);
+    transform-origin: 0% 90%;}
+    .knowledge-services-1 .homeour-service .service-list .service-in { padding-left: 15%;}
+    .knowledge-services .homeour-service { width: 100%;}
+    .knowledge-services .service-buttons .next_caro { width: 165px; bottom: 10px;}
+
+}
+@media (max-width:767px) {
+	.container{width:100%;}
+	.about-mission .container { width: 100%;}
+	.letest-news{display: none;}
+	.title-letest-news {float: left; width: 350px; margin-top: 0; margin-left: 0;}
+	.title-letest-news span {margin-left: 75px;padding: 10px 16px 10px 10px;}
+	.homegeneral-manager .container-fluid {margin-bottom: 0px;}
+	#home-banner .v-center h1 { font-size: 70px;}
+	#home-banner .v-center h2 {font-size: 70px;}
+	.join-text ul li { width: 100%; margin-bottom: 20px;}
+	.join-text ul li:first-child { width: 100%;}
+	.join-text ul {margin-top: 40px;}
+	.join-text ul li p { line-height: 30px;}
+	.searvices-home {background-color: #e3e3e3;}
+	.social-bar li { display: none;}
+	.social-bar .search-form{display: block;}
+	.typeahead__list, .typeahead__dropdown {min-width:320px;}
+	#home-banner .v-center {
+		top:60px;}
+	.our-team {background-color: #fff;}
+	.our-team .homeour-service::before{ background-color: #ddd;    transform: unset;}
+	.knowledge-cate2 .k-categories li::before {left:0px;}
+	.page-services .homeour-service .service-list .service-in {padding-left:0px;}
+	.knowledge-cate-bus2 .k-categories li::before {left:0px;}
+	.news-events-grid .homeservice-baner { display: none;}
+	.news-events-grid .homeour-service { width: 100%;}
+	.news-events-grid .homeour-service .service-list { margin-left: 0px;  width: 100%;padding:10px 30px;}
+	.news-events-grid .homeour-service .service-list .service-in {padding-left:0px;}
+	.news-container{background-color: #efeeee;padding: 0px 0px 35px;}
+	.news-events-grid { height: auto;}
+	.news-events-grid .homeour-service:before{display: none;}
+	.news-event-inner{background-color: transparent;}
+	.news-event-inner .container{padding:0px 30px;}
+	.contact-formsec form div { padding-left: 5px; padding-right: 5px;}
+	.contact-formsec form .contact-msg { padding-right: 5px; padding-left: 5px;}
+	.search-events-grid .homeservice-baner { display: none;}
+	.search-events-grid .homeour-service { width: 100%;}
+	.search-events-grid .homeour-service .service-list { margin-left: 0px;  width: 100%;padding:10px 15px;}
+	.search-events-grid .homeour-service .service-list .service-in {padding-left:0px;}
+	.search-container{background-color: #efeeee;padding: 0px 0px 35px;}
+	.search-events-grid { height: auto;}
+	.search-events-grid .homeour-service:before{display: none;}
+	.search-event-inner{background-color: transparent;}
+	.searvices-home { margin: 40px 0px;}
+	.page-services-1 .homeour-service .service-list { margin-left: 5%;background-image: none;}
+	.page-services .homeour-service .service-list { margin-left: 5%;background-image: none;}
+	.page-services-1 .homeour-service .service-list .service-in {padding-left:0px;}
+	.life-skills .service-list { margin-left: 5% !important;}
+	.medicine .homeour-service .service-list {margin-left: 0;  width: 100%;}
+
+	.knowledge-services-1 .homeour-service .service-list { margin-left: 5%;background-image: none;}
+	.knowledge-services .homeour-service .service-list { margin-left: 5%;background-image: none;}
+	.knowledge-services-1 .homeour-service .service-list .service-in {padding-left:0px;}
+	.knowledge-services .homeour-service .service-list .service-in{padding-left:0px;}
+	.bussiness .homeour-service .service-list { margin-left: 5% !important; width: 95%;}
+	.homegeneral-manager .container .row{padding-left:25px;}
+	.homegeneral-manager .general-p {  font-size: 18px;}
+	#section7 .container .row{padding-left:25px;}
+	#section7 {background-position: 100% 100% !important;}
+	
+}
+@media (max-width:640px) {
+.contact-icons ul li { padding: 0; width: 100%;}
+
+.homegeneral_manager_bg{
+	display:none;}
+}
+@media (max-width:480px) {
+	#home-banner .v-center h1{
+		font-size:21px;}
+	#home-banner .v-center h2 {
+    font-size: 25px;
+}	
+#home-banner .bg-whitebanner:before {
+
+    width: 32%;
+	}
+#home-banner .ActiveItem.bg-goldbanner{
+	richness:32%;}	
+.home-bag hr{
+	    margin-top: 4px;
+    margin-bottom: 4px;}
+	#home-banner .v-center {
+		top:70px;}
+		#contact-us .f-about,#contact-us .f-contact{width: 100%;margin-bottom: 20px;}
+	#contact-us .f-links { width: 100%; margin-top: 0px;}
+	#contact-us .f-contact ul li { padding: 11px 5px; margin: 18px 0;}
+	.f-copyright p { width: 100%; float: left; text-align: left;}
+	.title-letest::before {border-width: 6px 0px 59px 68px;}
+	.title-letest-news span {  margin-left: 56px; padding: 10px 16px 10px 10px; font-size: 32px;}
+	.typeahead__list, .typeahead__dropdown {min-width:300px;}
+
+	.home-helpstd .help-line { font-size: 30px; line-height: 36px;}
+	.about-us-banner .homeour-service::before { height: 97.7%;}
+	.genral-message .general-h1 { font-size: 30px; line-height: 38px;}
+	#section7 { overflow:hidden;}
+	.news-pra {padding: 50px 10px;}
+	.homegeneral-manager .general-h1 { font-size: 26px;}
+	.home-serviceh2 { font-size: 30px;}
+	.join-text h2,.join-text h3 {font-size: 36px;}
+	ul.breadcrumb li {   font-size: 13px;}
+	#home-banner .home-bag{background-size: cover;}
+	#home-banner .v-center p.container { font-size: 17px;}
+
+}	

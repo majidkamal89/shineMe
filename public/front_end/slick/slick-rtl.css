@@ -1,0 +1,42 @@
+.slick-track {
+	right: 0;
+	left:auto;
+}
+.slick-slide {
+	float: right;
+}
+/* Arrows */
+.aboutGallery .slick-next {
+	right: auto;
+	left: 24px;
+	background:url(../images/leftArrow.png) no-repeat center center
+}
+.aboutGallery .slick-prev {
+	left: auto;
+	right: 24px;
+	background:url(../images/rightArrow.png) no-repeat center center
+}
+/* Dots */
+
+.slick-dots li button:before {
+	left: auto;
+	right: 0;
+}
+@media (max-width: 800px)
+ {
+
+ }
+ @media (max-width: 620px)
+ {
+
+
+ }
+
+  @media (max-width: 500px)
+ {
+background:url(../../images/slider-arrow-right-s.png) no-repeat center center
+}
+ }
+  @media (min-width: 400px) and (max-width: 430px)
+ {
+ }
